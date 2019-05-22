@@ -1,0 +1,10 @@
+Name,Algorithm,Time Elapsed,Inertia,Adjusted Rand Index,Mutual Information Score,V-Measure,Folkes-Mallows Score
+s1,K-Means Random Seed,0.2,1.33085E+13,0.917919721,2.606154718,0.970660075,0.92447879
+s1,Bisecting K-Means Random Seed (largest split),0.4,8.91765E+12,1,2.70691118,1,1
+s1,Bisecting K-Means Random Seed (worst split),0.5,8.91765E+12,1,2.70691118,1,1
+s2,K-Means Random Seed,0.3,1.32796E+13,0.996068251,2.696940842,0.996294718,0.996330192
+s2,Bisecting K-Means Random Seed (largest split),0.6,1.32792E+13,0.996511524,2.697814582,0.996616331,0.996743932
+s2,Bisecting K-Means Random Seed (worst split),0.6,1.32792E+13,0.996511524,2.697814582,0.996616331,0.996743932
+s3,K-Means Random Seed,0.4,1.88046E+13,0.869296562,2.492913859,0.927851536,0.878829793
+s3,Bisecting K-Means Random Seed (largest split),0.6,1.68901E+13,0.996970887,2.694791428,0.996571305,0.9971739
+s3,Bisecting K-Means Random Seed (worst split),0.7,1.88425E+13,0.866431805,2.494008236,0.927676289,0.876103326
